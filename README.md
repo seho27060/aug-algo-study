@@ -6,10 +6,11 @@
 - 문유주 : yuzu
 - 박세호 : seho
 - 변성도 : dooo
-- 이동명 : dongdong
 - 오행송 : haeng
 - 윤정원 : won
+- 이동명 : dongdong
 - 정혜령 : hyry
+- 조영훈 : seulseul
 - 최승희 : hee
 
 ## ✨ 스터디 목적
