@@ -15,9 +15,8 @@ farm[1][1] = 1
 
 def btrk(cY, cX, depth):
     global ans
-    if cY==5 and cX==5:
-        if depth == 25-K:
-            ans += 1
+    if cY==5 and cX==5 and depth==25-K:
+        ans += 1
 
     for i in range(4):
         nY = cY + dY[i]
